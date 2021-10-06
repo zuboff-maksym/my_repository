@@ -1,0 +1,57 @@
+.head {
+	text-align: right;
+ 	padding: 10px;
+ 	font-family: arial;
+ 	font-size: 13px;
+ 	margin: 10px;
+ 	padding-bottom: 20px;
+}
+
+a{
+	margin: 5px;
+
+}
+
+.logo {
+	display: block;
+	padding-top: 170px;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center
+}
+
+.text {
+	font-family: arial;
+ 	font-size: 13px;
+}
+
+.form_area {
+	text-align: center
+}
+
+.field {
+    width: 500px;
+    height: 35px;
+    border: 1px solid lightblue;
+    border-radius: 20px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.field:hover {
+    background-color: #f8f9fa;
+}
+
+.button {
+    width: 130px;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid #f8f9fa;
+    background-color: #f8f9fa;
+    cursor: pointer;
+    color: black;
+}
+
+.button:hover {
+    background-color: lightgray;
+}
